@@ -2,6 +2,8 @@
 
 The Chingu Trivia Quiz App is a web-based quiz application designed to test your knowledge across various topics. It offers an engaging and fun experience where users can challenge themselves with a series of multiple-choice questions. The app also includes a high score feature, allowing players to compare their performance with others.
 
+**To Access the project's product backlog and user stories, click here:** https://www.notion.so/cbf46657bc5945f885f6fb85222686e3?v=5066c6709ad84610b5fa7c1e676177ff&pvs=4
+
 ## Purpose
 
 The main purpose of the Chingu Trivia Quiz App is to provide an enjoyable and educational experience for users. It aims to:
